@@ -3,12 +3,15 @@ What happens when you initialize a repository? Why do you need to do it?
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+	Staging area is a holding place for the files you want to add to Git for version tracking, before you actually add them.  Value offered is to allow you to logically group files from the working directory into separate commits, rather than being required to put all files from the directory into Git together.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+	You can "git add" files to the staging area and then commit them when ready.
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	Branches can help when adding new features to your code that you want to experiment with and see how they work. That way you can just keep your master branch as-is and work separately on the new experimental code.
 
 How do the diagrams help you visualize the branch structure?
 
