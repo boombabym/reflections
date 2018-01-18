@@ -19,8 +19,7 @@ stored locally?
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
-
-    Fill in your answer here
+	You'd have to email files back and forth... or put them on SharePoint/OneDrive/Google Drive and coordinate closely with each other to make sure you don't make colliding changes. It would be easier to just make changes this way, but harder to review each other's changes/find errors.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
