@@ -23,5 +23,4 @@ and what would be harder?
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
-
-    Fill in your answer here
+	You'd want to make changes in a separate branch when you want to test/develop brand new functionality that you don't wnat to interfere with others working on/using the master code. If you made changes directly to the master, you'd have to keep them offline so as not to interfere with others using the master code and you couldn't easily share them with other collaborators.
